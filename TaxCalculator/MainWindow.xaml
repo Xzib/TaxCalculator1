@@ -34,6 +34,7 @@
             <TextBlock Text="Choose Applicable Taxes" 
                        FontWeight="Bold" 
                        Margin="10 10"/>
+            <
             
         </StackPanel>
         
